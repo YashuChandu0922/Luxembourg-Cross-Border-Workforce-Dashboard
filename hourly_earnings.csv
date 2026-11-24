@@ -1,0 +1,113 @@
+year,sector_code,sector,residence_status,avg_hourly_earnings_eur
+2010,I,Accommodation & food,Cross-border workers,13.7
+2010,I,Accommodation & food,Residents,13.6
+2010,_T,All sectors,Cross-border workers,20.8
+2010,_T,All sectors,Residents,25.8
+2010,R_S,"Arts, recreation & other services",Cross-border workers,18.8
+2010,R_S,"Arts, recreation & other services",Residents,21.8
+2010,F,Construction,Cross-border workers,16.6
+2010,F,Construction,Residents,15.7
+2010,P,Education,Cross-border workers,32.9
+2010,P,Education,Residents,40.1
+2010,K,Financial & insurance,Cross-border workers,29.5
+2010,K,Financial & insurance,Residents,35.2
+2010,Q,Health & social work,Cross-border workers,28.2
+2010,Q,Health & social work,Residents,23.1
+2010,B-E,Industry,Cross-border workers,18.8
+2010,B-E,Industry,Residents,23.6
+2010,J,Information & communication,Cross-border workers,25.6
+2010,J,Information & communication,Residents,29.5
+2010,L_N,L_N,Cross-border workers,14.3
+2010,L_N,L_N,Residents,13.8
+2010,M,"Professional, scientific & technical",Cross-border workers,24.8
+2010,M,"Professional, scientific & technical",Residents,29.6
+2010,O,Public administration,Cross-border workers,31.8
+2010,O,Public administration,Residents,34.2
+2010,H,Transport & storage,Cross-border workers,18.5
+2010,H,Transport & storage,Residents,24.1
+2010,G,Wholesale & retail,Cross-border workers,16.7
+2010,G,Wholesale & retail,Residents,17.7
+2014,I,Accommodation & food,Cross-border workers,13.9
+2014,I,Accommodation & food,Residents,13.2
+2014,_T,All sectors,Cross-border workers,21.0
+2014,_T,All sectors,Residents,25.5
+2014,R_S,"Arts, recreation & other services",Cross-border workers,20.4
+2014,R_S,"Arts, recreation & other services",Residents,22.0
+2014,F,Construction,Cross-border workers,17.0
+2014,F,Construction,Residents,17.0
+2014,P,Education,Cross-border workers,29.6
+2014,P,Education,Residents,39.0
+2014,K,Financial & insurance,Cross-border workers,29.3
+2014,K,Financial & insurance,Residents,35.7
+2014,Q,Health & social work,Cross-border workers,27.5
+2014,Q,Health & social work,Residents,23.3
+2014,B-E,Industry,Cross-border workers,19.6
+2014,B-E,Industry,Residents,22.9
+2014,J,Information & communication,Cross-border workers,24.6
+2014,J,Information & communication,Residents,28.6
+2014,L_N,L_N,Cross-border workers,15.0
+2014,L_N,L_N,Residents,14.2
+2014,M,"Professional, scientific & technical",Cross-border workers,24.1
+2014,M,"Professional, scientific & technical",Residents,31.5
+2014,O,Public administration,Cross-border workers,31.0
+2014,O,Public administration,Residents,33.9
+2014,H,Transport & storage,Cross-border workers,19.5
+2014,H,Transport & storage,Residents,24.1
+2014,G,Wholesale & retail,Cross-border workers,17.0
+2014,G,Wholesale & retail,Residents,18.7
+2018,I,Accommodation & food,Cross-border workers,14.7
+2018,I,Accommodation & food,Residents,15.1
+2018,_T,All sectors,Cross-border workers,22.7
+2018,_T,All sectors,Residents,28.3
+2018,R_S,"Arts, recreation & other services",Cross-border workers,20.9
+2018,R_S,"Arts, recreation & other services",Residents,26.5
+2018,F,Construction,Cross-border workers,18.5
+2018,F,Construction,Residents,18.1
+2018,P,Education,Cross-border workers,33.1
+2018,P,Education,Residents,43.1
+2018,K,Financial & insurance,Cross-border workers,32.2
+2018,K,Financial & insurance,Residents,39.6
+2018,Q,Health & social work,Cross-border workers,31.1
+2018,Q,Health & social work,Residents,26.8
+2018,B-E,Industry,Cross-border workers,20.8
+2018,B-E,Industry,Residents,25.2
+2018,J,Information & communication,Cross-border workers,26.4
+2018,J,Information & communication,Residents,30.9
+2018,L_N,L_N,Cross-border workers,16.1
+2018,L_N,L_N,Residents,16.8
+2018,M,"Professional, scientific & technical",Cross-border workers,26.6
+2018,M,"Professional, scientific & technical",Residents,33.5
+2018,O,Public administration,Cross-border workers,37.1
+2018,O,Public administration,Residents,37.9
+2018,H,Transport & storage,Cross-border workers,20.8
+2018,H,Transport & storage,Residents,24.3
+2018,G,Wholesale & retail,Cross-border workers,18.0
+2018,G,Wholesale & retail,Residents,20.0
+2022,I,Accommodation & food,Cross-border workers,18.35697
+2022,I,Accommodation & food,Residents,18.42221
+2022,_T,All sectors,Cross-border workers,27.27541
+2022,_T,All sectors,Residents,35.14099
+2022,R_S,"Arts, recreation & other services",Cross-border workers,26.59475
+2022,R_S,"Arts, recreation & other services",Residents,31.10009
+2022,F,Construction,Cross-border workers,21.55611
+2022,F,Construction,Residents,21.58998
+2022,P,Education,Cross-border workers,42.02795
+2022,P,Education,Residents,51.35414
+2022,K,Financial & insurance,Cross-border workers,39.50917
+2022,K,Financial & insurance,Residents,47.71894
+2022,Q,Health & social work,Cross-border workers,36.29914
+2022,Q,Health & social work,Residents,32.65806
+2022,B-E,Industry,Cross-border workers,23.81605
+2022,B-E,Industry,Residents,28.6052
+2022,J,Information & communication,Cross-border workers,32.03853
+2022,J,Information & communication,Residents,37.19256
+2022,L_N,L_N,Cross-border workers,18.9126
+2022,L_N,L_N,Residents,21.15844
+2022,M,"Professional, scientific & technical",Cross-border workers,32.68091
+2022,M,"Professional, scientific & technical",Residents,44.15866
+2022,O,Public administration,Cross-border workers,47.90957
+2022,O,Public administration,Residents,46.02964
+2022,H,Transport & storage,Cross-border workers,26.31503
+2022,H,Transport & storage,Residents,28.38793
+2022,G,Wholesale & retail,Cross-border workers,20.921
+2022,G,Wholesale & retail,Residents,24.61648

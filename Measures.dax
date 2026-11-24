@@ -1,0 +1,25 @@
+Total Frontier Workers = SUM('frontier_worker_trend'[frontier_workers])
+
+Frontier Workers Previous Year =
+CALCULATE(
+    [Total Frontier Workers],
+    DATEADD('Date'[Date], -1, YEAR)
+)
+
+Frontier Worker YoY % =
+DIVIDE(
+    [Total Frontier Workers] - [Frontier Workers Previous Year],
+    [Frontier Workers Previous Year]
+)
+
+Residence Share % =
+DIVIDE(
+    SUM('frontier_workers_by_residence'[frontier_workers]),
+    CALCULATE(
+        SUM('frontier_workers_by_residence'[frontier_workers]),
+        ALL('frontier_workers_by_residence'[residence_country])
+    )
+)
+
+Average Hourly Earnings =
+AVERAGE('hourly_earnings'[avg_hourly_earnings_eur])
